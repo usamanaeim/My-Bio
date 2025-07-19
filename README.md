@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Osama 👋</h1>
 
 <p align="center">
-  <em>I am a learner of the ALX <strong>Software Engineering</strong> program and I want to revamp my GitHub Profile to make it stand out from the crowd in my job search.</em>
+  <em>I am a learner of the ALX <strong>Software Engineering</strong> program and I am a Data Science graduate of ALX.</em>
 </p>
 
 ---
