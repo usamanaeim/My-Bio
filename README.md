@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Osama 👋</h1>
 
 <p align="center">
-  <em>I am a learner of the ALX <strong>Software Engineering</strong> program and I am a <strong>Data Science</strong> graduate of ALX.</em>
+  <em>I am a learner of the ALX <strong>Software Engineering</strong> program and a <strong>Data Science</strong> graduate of ALX.</em>
 </p>
 
 ---
